@@ -1,6 +1,6 @@
-# Machiavellarium
+# machiavellarium
 
-Experimental platform for studying how **social interaction between learning agents** (with unfrozen weights) in a simulated environment can induce or enhance learning.
+Experimental platform for studying how **social interaction between LLM agents** with unfrozen weights in a simulated environment can induce or enhance learning.
 
 This repository is scaffolded for a Rust-first simulation core, with room to add Python/ML components later for training and analysis.
 
