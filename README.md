@@ -49,28 +49,3 @@ cargo run -p machiavellarium-cli -- --run
 # Use a custom config
 cargo run -p machiavellarium-cli -- --config configs/default.toml --run
 ```
-
-## Configuration
-
-Experiment parameters live in TOML under `configs/`. The default file defines simulation seed, step limit, environment dimensions, agent count, and log level.
-
-Override the config path with `--config` or the `MACHIAVELLARIUM_CONFIG` environment variable.
-
-## Development
-
-| Command | Description |
-|---------|-------------|
-| `cargo build` | Build all crates |
-| `cargo test` | Run unit tests |
-| `cargo fmt --all -- --check` | Check formatting |
-| `cargo clippy --workspace --all-targets -- -D warnings` | Lint |
-| `cargo run -p machiavellarium-cli -- --help` | CLI help |
-
-## License
-
-Licensed under either of:
-
-- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE))
-- MIT License ([LICENSE-MIT](LICENSE-MIT))
-
-at your option.
