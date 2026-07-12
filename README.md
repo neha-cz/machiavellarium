@@ -9,3 +9,5 @@ studying how emotional introspection and multi-agent social interactions in LLMs
 - emotional experiences induced by visual stimuli
 
 the experimental platform will primarily be scaffolded in rust, with agent implemenations in python 
+
+![marvarium outline](marvarium-outline.png)
