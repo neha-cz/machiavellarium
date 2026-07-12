@@ -11,3 +11,7 @@ studying how emotional introspection and multi-agent social interactions in LLMs
 the experimental platform will primarily be scaffolded in rust, with agent implemenations in python 
 
 ![marvarium outline](marvarium-outline.png)
+
+Minsky, Marvin. The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind. 
+Park, Joon Sung, et al. Generative Agents: Interactive Simulacra of Human Behavior
+Park, Joon Sung, et al. LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals
