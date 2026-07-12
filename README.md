@@ -12,7 +12,7 @@ the experimental platform will primarily be scaffolded in rust, with agent imple
 
 ![marvarium outline](marvarium-outline.png)
 
-###references:
+### references:
 
 Minsky, Marvin. The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind. 
 
