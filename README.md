@@ -19,3 +19,5 @@ Minsky, Marvin. The Emotion Machine: Commonsense Thinking, Artificial Intelligen
 Park, Joon Sung, et al. Generative Agents: Interactive Simulacra of Human Behavior
 
 Park, Joon Sung, et al. LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals
+
+Friston, Karl. The free-energy principle: a unified brain theory?
