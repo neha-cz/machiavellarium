@@ -15,17 +15,10 @@ the simulated world will primarily be scaffolded in rust, with agent implemenati
 
 ### references:
 
-Minsky, Marvin. The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind. (2006)
-
-Friston, Karl. The free-energy principle: a unified brain theory? (2010)
-
-Joffily, Matteus & Coricelli, Giorgio. Emotional Valence and the Free-Energy Principle (2013)
-
-Park, Joon Sung, et al. Generative Agents: Interactive Simulacra of Human Behavior (2023)
-
-Park, Joon Sung, et al. LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals (2024)
-
-Jaques, Natasha. Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning. (2018)
-
-Lindsey, Jack. Emergent Introspective Awareness in Large Language Models. (2026)
-
+- Minsky, Marvin. The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind. (2006)
+- Friston, Karl. The free-energy principle: a unified brain theory? (2010)
+- Joffily, Matteus & Coricelli, Giorgio. Emotional Valence and the Free-Energy Principle (2013)
+- Park, Joon Sung, et al. Generative Agents: Interactive Simulacra of Human Behavior (2023)
+- Park, Joon Sung, et al. LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals (2024)
+- Jaques, Natasha. Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning. (2018)
+- Lindsey, Jack. Emergent Introspective Awareness in Large Language Models. (2026)
