@@ -9,9 +9,9 @@ the idea:
 4) if the original interaction involved "surprise", as defined by the fep, perform the following: 
 5) mood = manic; loosen the kl constraint; mood = depressive, increase the kl constraint
 6) ask the agent to verbally reflect on the interaction, which becomes the concrete training signal gated by step 5
-7) update the weights accordingly 
+7) update the weights accordingly
   
-the simulated world will primarily be scaffolded in rust, with agent implemenations in python 
+the simulated world will primarily be scaffolded in rust, with agent implemenations in python (using inkling as the model + tinker to fine-tune)
 
 ### references:
 
