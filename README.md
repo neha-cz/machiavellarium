@@ -7,7 +7,7 @@ the idea:
 2) determine the moment-to-moment signal of extracted emotion-concept vectors from each interaction
 3) following the free energy principle (fep), calculate valence and mood: valence is the smoothed rate of change of the relevant emotion activations and mood is a slower exponential average of valence
 4) if the original interaction involved "surprise", as defined by the fep, perform the following: 
-5) Mood = manic; loosen the kl constraint; mood = depressive, increase the kl constraint
+5) mood = manic; loosen the kl constraint; mood = depressive, increase the kl constraint
 6) ask the agent to verbally reflect on the interaction, which becomes the concrete training signal gated by step 5
 7) update the weights accordingly 
   
