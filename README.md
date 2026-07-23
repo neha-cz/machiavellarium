@@ -13,6 +13,8 @@ the idea:
   
 the simulated world will primarily be scaffolded in rust, with agent implemenations in python (using inkling as the model + tinker to fine-tune)
 
+![marvarium outline](surprise_gated_learning_schema.png)
+
 ### references:
 
 - Minsky, Marvin. The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind. (2006)
